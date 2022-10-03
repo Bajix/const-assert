@@ -1,0 +1,12 @@
+[package]
+authors = ["Thomas Sieverding <Thomas@bajix.com>"]
+edition = "2021"
+name = "const-assert"
+version = "1.0.0"
+description = "Assert struct for const generics"
+readme = "./README.md"
+license = "MIT"
+repository = "https://github.com/Bajix/const-assert/"
+
+[lib]
+doctest = true
