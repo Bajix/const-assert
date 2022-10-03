@@ -1,3 +1,8 @@
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![Cargo](https://img.shields.io/crates/v/const-assert.svg)](https://crates.io/crates/const-assert)
+[![Documentation](https://docs.rs/const-assert/badge.svg)](https://docs.rs/const-assert)
+
+
 Assert is used to create generic trait bounds:
 
 ```rust
