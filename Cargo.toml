@@ -2,7 +2,7 @@
 authors = ["Thomas Sieverding <Thomas@bajix.com>"]
 edition = "2021"
 name = "const-assert"
-version = "1.0.0"
+version = "1.0.1"
 description = "Assert struct for const generics"
 readme = "./README.md"
 license = "MIT"
