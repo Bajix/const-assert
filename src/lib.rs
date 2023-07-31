@@ -27,6 +27,8 @@
 #![allow(incomplete_features)]
 #![feature(generic_const_exprs)]
 
+#![no_std]
+
 pub struct Assert<const COND: bool> {}
 
 pub trait IsTrue {}
